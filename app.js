@@ -13,6 +13,6 @@ app.get("/about", (req, res) => {
 
 // Start the server
 app.listen(3000, () => {
-  console.log("Server running on http://localhost:3000");
+  console.log("Server on running on http://localhost:3000");
 });
 
